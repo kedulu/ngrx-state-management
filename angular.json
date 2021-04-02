@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-state-management"
+  "defaultProject": "ngrx-state-management",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
